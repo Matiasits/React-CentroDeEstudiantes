@@ -1,0 +1,12 @@
+nav {
+    background-color: #3e3e3e; /* Dark blue background color */
+}
+
+nav h1 {
+    color:#f8f8f8;
+}
+
+nav a img { 
+    height: 50px;
+    width: 50px;
+}
